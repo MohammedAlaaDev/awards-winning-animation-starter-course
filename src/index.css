@@ -27,3 +27,8 @@
     src: url("/fonts/zentry-regular.woff2") format("woff2");
   }
 }
+
+.special-font b {
+  font-family: "Zentry";
+  font-feature-settings: "ss01" on;
+}
